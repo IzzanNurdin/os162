@@ -1,1 +1,3 @@
 #OSTutorial
+
+I expect OS will be fun, interesting, and useful for later use.
