@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 muhammad.izzan41 StafCS 4096 Sep 11 17:12 .
+drwx--x--x  3 muhammad.izzan41 StafCS 4096 Sep 11 17:05 ..
+drwxr-xr-x  8 muhammad.izzan41 StafCS 4096 Sep 11 17:10 .git
+-rw-r--r--  1 muhammad.izzan41 StafCS    0 Sep 11 17:12 lab01.txt
+-rw-r--r--  1 muhammad.izzan41 StafCS    7 Sep 11 16:29 README.md
+drwxr-xr-x  2 muhammad.izzan41 StafCS 4096 Sep 11 16:57 SandBox
+drwxr-xr-x  2 muhammad.izzan41 StafCS 4096 Sep 11 17:05 week00
+drwxr-xr-x  2 muhammad.izzan41 StafCS 4096 Sep 11 16:45 week01
+drwxr-xr-x  2 muhammad.izzan41 StafCS 4096 Sep 11 16:45 week02
+drwxr-xr-x  2 muhammad.izzan41 StafCS 4096 Sep 11 16:45 week03
+drwxr-xr-x  2 muhammad.izzan41 StafCS 4096 Sep 11 16:46 week04
+drwxr-xr-x  2 muhammad.izzan41 StafCS 4096 Sep 11 16:46 week05
+drwxr-xr-x  2 muhammad.izzan41 StafCS 4096 Sep 11 16:46 week06
+drwxr-xr-x  2 muhammad.izzan41 StafCS 4096 Sep 11 16:46 week07
+drwxr-xr-x  2 muhammad.izzan41 StafCS 4096 Sep 11 16:46 week08
+drwxr-xr-x  2 muhammad.izzan41 StafCS 4096 Sep 11 16:46 week09
+drwxr-xr-x  2 muhammad.izzan41 StafCS 4096 Sep 11 16:47 week10
+/home/fasilkom/mahasiswa/m/muhammad.izzan41/os162/week01
