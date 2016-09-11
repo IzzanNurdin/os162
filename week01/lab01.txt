@@ -17,3 +17,4 @@ drwxr-xr-x  2 muhammad.izzan41 StafCS 4096 Sep 11 16:46 week08
 drwxr-xr-x  2 muhammad.izzan41 StafCS 4096 Sep 11 16:46 week09
 drwxr-xr-x  2 muhammad.izzan41 StafCS 4096 Sep 11 16:47 week10
 /home/fasilkom/mahasiswa/m/muhammad.izzan41/os162/week01
+Today is 11 Sep 2016 at 18:02:55
