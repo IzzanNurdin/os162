@@ -1,0 +1,2 @@
+This week assigment, we're doing commit, pull, and push command from terminal
+and then we're using other commands like mv (move), rm (remove), cd (call directory(?)), touch, mkdir, and many others in terminal.
